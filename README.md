@@ -5,6 +5,6 @@
 1. numerada
 1. en orden
 
-podemos escribir un 'comando' en la misma linea
+podemos escribir un ´comando´ en la misma linea
 
 
